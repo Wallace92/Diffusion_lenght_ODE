@@ -27,5 +27,20 @@ we obtain and equation which can be applay in Matlab using bvp4c function:
 
 $$ y_{2}^{'} - y_1 a + p_0 a = 0 $$
 
+The bvp4c function requires the first order differenatial equation \texbf{odefun}, the bounduary conditions \textbf{bcfun} and the guessed value to initiate the computations \textbf{solinit}.
+To make everything alife lest assume some typical values in our calculations:
+
+- the concentration of carriers near the surface $p_n[0] = 10^{14}$
+- the concentration of carriers in bulk $ p_0 = 10^{13} $
+- the diffusion lenght $ L = 6 [\mu m]$
+
+Using above conditions the equations looks like:
+
+$$ y_{2}^{'} = \frac{y_1} {36} - \frac{10^{13} {36} = 0 $$
+
+
+
+
+
 </body>
 </html>
