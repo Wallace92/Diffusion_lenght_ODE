@@ -1,9 +1,3 @@
-clear;
-clc;
-
-% bcfun - function with bounduary conditions 
-% odefun - function with columnar vector
-
 % solinit - vector with initial guessed values of equation
 solinit = bvpinit(linspace(0,50,100),[10^14 10^13]);
 
