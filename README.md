@@ -36,7 +36,7 @@ To make everything alife lest assume some typical values in our calculations:
 
 Using above conditions the equations looks like:
 
-$$ y_{2}^{'} = \frac{y_1} {36} - \frac{10^{13} {36} = 0 $$
+$$ y_{2}^{'} = \frac{y_1}{36} - \frac{10^{13}} {36} = 0 $$
 
 
 
