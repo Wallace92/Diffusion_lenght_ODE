@@ -17,8 +17,7 @@ p = 10^13+[10^14-10^13]*exp(-x / 6);
 %an subplot to compare the numerical and analitycal equation
 figure
 subplot(1,2,1)
-
-plot(x,y(1,:), 6, y(1,:), 'o', 'MarkerSize', 10)         
+plot(x,y(1,:), 6, pk(1,:), 'o', 'MarkerSize', 10)         
 title('Numerical at p(L = 6 um)')
 subplot(1,2,2) 
 %the analitycal equation
