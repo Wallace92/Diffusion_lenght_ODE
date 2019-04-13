@@ -27,8 +27,5 @@ we obtain and equation which can be applay in Matlab using bvp4c function:
 
 $$ y_{2}^{'} - y_1 a + p_0 a = 0 $$
 
-  The Gauss distribution very well fit many experimental data and determine the probability of occurence each of it</li>
-
-Finally the graph is presented using matplotlib library with beatiful latex graphics. The straight line at the middle shows the mean value of approximated data.
 </body>
 </html>
